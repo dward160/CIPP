@@ -1,5 +1,5 @@
 name: Azure Static Web Apps CI/CD
-
+# use to trigger change
 on:
   push:
     branches:
